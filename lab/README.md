@@ -1,8 +1,8 @@
-## **Project Report: DevHive – Global Freelancing Marketplace for Local Developers**
+# Project Report: DevHive – Global Freelancing Marketplace for Local Developers
 
-**Repository Link:** https://github.com/hasanshahriar32/devhiveclient
+**Repository Link:** [https://github.com/hasanshahriar32/devhiveclient](https://github.com/hasanshahriar32/devhiveclient)
 
-**Project Proposal:** [https://dev.paradox-bd.com/devhive](https://dev.paradox-bd.com/devhive/)
+**Project Proposal:** [https://github.com/hasanshahriar32/devhive](https://github.com/hasanshahriar32/devhive)
 
 ---
 
@@ -40,8 +40,13 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 ### **A. Freelancer & Client Profiles**
 
 - **Dynamic Portfolios**: Developers showcase work samples, certifications, and client testimonials.
+
 - **Client Verification**: Rigorous KYC checks and rating systems to ensure legitimacy.
-- **Skill Tagging**: Auto-tagging of expertise (e.g., React, Python, DevOps) for better visibility.
+- **Skill Tagging**: Auto-tagging of expertise (e.g., React, Python, DevOps) for better visibility
+
+![image.png](image.png)
+
+![image.png](image%201.png)
 
 ### **B. Job Marketplace**
 
@@ -51,9 +56,12 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 
 ### **C. Collaboration & Project Management**
 
-- **Real-Time Messaging**: In-app chat with **integrated translation** to overcome language barriers.
-- **Milestone Tracking**: Clients and developers define deliverables, timelines, and payment schedules.
+- **Real-Time Messaging**: In-app chat with **integrated translation** to overcome language barriers.**Milestone Tracking**: Clients and developers define deliverables, timelines, and payment schedules.
 - **Code Repository**: Built-in Git integration for collaborative coding (planned).
+
+![image.png](image%202.png)
+
+![image.png](image%203.png)
 
 ### **D. Financial Security**
 
@@ -61,11 +69,13 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 - **Multi-Currency Support**: Automatic currency conversion for international transactions.
 - **Dispute Resolution**: Mediation tools and transparent logs to resolve conflicts.
 
-### **E. Community & Growth**
+### E. Community & Engagement
 
+- **Analytics Dashboard**: Developers track earnings, project success rates, and skill growth.
 - **Developer Forums**: Topic-based discussions (e.g., "Web3 Development," "Career Advice").
 - **Learning Hub**: Curated tutorials, coding challenges, and certification partnerships.
-- **Analytics Dashboard**: Developers track earnings, project success rates, and skill growth.
+
+![image.png](image%204.png)
 
 ---
 
@@ -78,12 +88,16 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 - **State Management**: Redux Toolkit for complex workflows (e.g., bidding, payments).
 - **Routing**: React Router v6 with role-based access control (RBAC).
 
+![image.png](image%205.png)
+
 ### **Backend**
 
 - **API Layer**: Node.js + Express.js for RESTful endpoints.
 - **Database**: MongoDB with Atlas for scalability; Redis for caching.
 - **Authentication**: JWT with HTTP-only cookies + OAuth 2.0 (future).
 - **Real-Time Features**: [Socket.io](http://socket.io/) for chat and notifications.
+
+![image.png](image%206.png)
 
 ### **DevOps & Security**
 
@@ -104,10 +118,17 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 1. **User Onboarding**
     - Developers/clients register with multi-factor authentication (MFA).
     - Profile setup with skill tagging (developers) or project requirements (clients).
-2. **Job Lifecycle**
+    
+
+![image.png](image%207.png)
+
+1. **Job Lifecycle**
     - Client posts job → Developers bid → Client selects freelancer → Milestones defined.
     - Escrow payment initiated → Deliverables submitted → Client approval → Payment released.
-3. **Dispute Handling**
+    
+    ![image.png](image%208.png)
+    
+2. **Dispute Handling**
     - Raise dispute → Mediation chat → Admin review → Escrow refund/release.
 
 ---
@@ -145,32 +166,21 @@ The platform prioritizes **security**, **transparency**, and **user empowerment*
 
 ### **10. Team Members**
 
----
+### **1. Shahriar Hasan**
 
-### 1. Shahriar Hasan
-
-> 👋 Hi, I’m Shahriar - a web developer based on MERN, Next, TS, Docker, AWS.
-> 
-
-My Portfolio:
-
-[Shahriar Hasan](https://shahriarhasan.vercel.app/)
+- **Role**: Lead Frontend Developer
+- **Expertise**: MERN Stack, Next.js, AWS
+- **Portfolio**: [shahriarhasan.vercel.app](https://shahriarhasan.vercel.app/)
 
 ### **2. Md Taufiq Biswas**
 
-> Let's be a changemaker
-> 
-
-...…
-
-[Md Taufiq Biswas](https://www.facebook.com/taufiqbiswas.biswas.3)
+- **Role**: Backend & DevOps Engineer
+- **Expertise**: Node.js, MongoDB, Cloud Architecture
 
 ### **3. Sarah Masrura Mumu**
 
-> Muslim | Imaginative | Bookworm | Potterhead | INTJ | ঋণাত্মক ১৬ ~ HSTU ECE 21
-> 
-
-[](https://www.facebook.com/sarahmasruramumu)
+- **Role**: UI/UX Designer & Community Manager
+- **Expertise**: User Research, Figma, Content Strategy
 
 ---
 
@@ -180,12 +190,12 @@ DevHive reimagines freelancing as a collaborative, growth-oriented journey rathe
 
 **Submitted By**: DevHive Team
 
-**Date**: [Insert Date]
+**Date**: 3/9/25
 
 ---
 
 **Appendices**
 
-- **API Documentation**: [Link to Swagger/Postman]
-- **User Feedback Report**: [Link to Survey Data]
-- **Security Audit Summary**: [Link to Penetration Test Results]
+- **API Documentation**: https://devhiveserver.vercel.app
+- **User Feedback Report**: https://github.com/hasanshahriar32/devhiveclient
+- **Security Audit Summary**: https://github.com/hasanshahriar32/devhiveclient
